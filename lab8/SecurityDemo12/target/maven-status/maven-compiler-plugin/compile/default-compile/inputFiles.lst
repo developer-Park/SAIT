@@ -1,0 +1,13 @@
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\servlets\AdminServlet.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\filters\AdminFilter.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\services\NoteService.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\services\AccountService.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\dataaccess\DBUtil.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\models\Role.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\filters\AuthenticationFilter.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\servlets\NoteServlet.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\models\Note.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\dataaccess\UserDB.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\models\User.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\dataaccess\NoteDB.java
+C:\Users\yolan\Projects\CPRG352\CPRG352-Lab8\SecurityDemo12\src\main\java\ca\sait\securitydemo12\servlets\LoginServlet.java
